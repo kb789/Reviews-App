@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
-@CrossOrigin(origins = "http://localhost:3000/") 
+@CrossOrigin(origins = "https://reviews-lime-two.vercel.app/") 
 @RestController
 public class ReviewController {
     private final ReviewRepository reviewRepository;
