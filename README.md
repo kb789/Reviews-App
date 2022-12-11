@@ -11,6 +11,6 @@ The Reviews app allows users to post reviews of hotels and restaurants, and it c
 
 ## Technologies Used
 
-The backend of this application was built with Java Spring Boot. The [frontend](https://github.com/kb789/Book-Cloud-Frontend) was built with React. Auth0 was used to manage authentication, and a postgres database was used for storage.
+The backend of this application was built with Java Spring Boot. The [frontend](https://github.com/kb789/Reviews_Frontend) was built with React. Auth0 was used to manage authentication, and a postgres database was used for storage.
 
 
