@@ -6,7 +6,7 @@ https://reviews-lime-two.vercel.app/
 
 ## Description
 
-The Reviews app allows users to post reviews of hotels and resturants, and it calculates the average of all these reviews. Users who signup for passwords with email/password or via their Google account can add new hotels and resturants to be reviewed. 
+The Reviews app allows users to post reviews of hotels and restaurants, and it calculates the average of all these reviews. Users who signup for passwords with email/password or via their Google account can add new hotels and restaurants to be reviewed. 
 
 
 ## Technologies Used
